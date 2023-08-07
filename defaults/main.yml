@@ -129,6 +129,7 @@ audit_rules_usergroup_modification_passwd: true
 audit_rules_usergroup_modification_shadow: true
 chronyd_specify_remote_server: true
 configure_strategy: true
+dir_perms_world_writable_root_owned: true
 dir_perms_world_writable_sticky_bits: true
 disable_strategy: true
 enable_authselect: true
