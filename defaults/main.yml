@@ -414,6 +414,7 @@ selinux_state: true
 service_auditd_enabled: true
 service_sssd_enabled: true
 set_password_hashing_algorithm_systemauth: true
+special_service_block: true
 sshd_disable_root_login: true
 sssd_enable_pam_services: true
 sssd_ldap_configure_tls_reqcert: true
